@@ -1,7 +1,6 @@
 # PRODIGY_ML_04
 # Hand Gesture Recognition Using CNN
 Developed a CNN-based Hand Gesture Recognition model using Python, TensorFlow, and Keras to classify 10 different hand gestures from 20,000 images using the LeapGestRecog dataset.
-# Hand Gesture Recognition Using CNN
 
 ## 📌 Project Overview
 
